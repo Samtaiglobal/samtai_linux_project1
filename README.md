@@ -66,4 +66,64 @@ du: this command check much of space a file takes.
 
 <img width="1440" alt="Screenshot 2023-08-16 at 13 23 20" src="https://github.com/Samtaiglobal/samtai_linux_project1/assets/140549974/c71d2a73-b0f4-481b-890a-a6e9d05e60eb">
 
-grep
+head:this command allows you to show the first ten lines of a text.
+
+<img width="1440" alt="Screenshot 2023-08-16 at 14 34 43" src="https://github.com/Samtaiglobal/samtai_linux_project1/assets/140549974/71800355-5de4-4654-8e01-69ba9710698a">
+
+tail:this command shows the last ten line of  file 
+
+<img width="1440" alt="Screenshot 2023-08-16 at 14 37 53" src="https://github.com/Samtaiglobal/samtai_linux_project1/assets/140549974/eb58be0c-c37f-4421-aa15-ec7ff4b210dc">
+
+diff: this command is used differentiant between contentof two different files.
+
+<img width="1440" alt="Screenshot 2023-08-16 at 14 40 39" src="https://github.com/Samtaiglobal/samtai_linux_project1/assets/140549974/62f885df-c7de-4d88-a7db-c7e0cfbeaa13">
+
+tar:This command is used to archive multiple files
+
+<img width="1440" alt="Screenshot 2023-08-16 at 17 24 08" src="https://github.com/Samtaiglobal/samtai_linux_project1/assets/140549974/76be8656-3c21-48c4-aab1-9666fe2d8b40">
+
+Command line for file permission and ownership
+
+chmod: this command is used to modifya file and execute permissions
+
+<img width="1440" alt="Screenshot 2023-08-16 at 17 36 31" src="https://github.com/Samtaiglobal/samtai_linux_project1/assets/140549974/e94b4e1e-ab70-44d2-8dff-1156d01d8f17">
+
+chown: this command lets you change ownership of file to a specified name.
+
+<img width="1440" alt="Screenshot 2023-08-16 at 17 43 24" src="https://github.com/Samtaiglobal/samtai_linux_project1/assets/140549974/e420df19-63ff-47de-97c7-34edd78192a5">
+
+jobs: this command displays all running processes amd their status.
+
+<img width="1440" alt="Screenshot 2023-08-16 at 17 48 59" src="https://github.com/Samtaiglobal/samtai_linux_project1/assets/140549974/d225c54c-5b03-4ac8-8a72-ce849d216a57">
+
+kill:this command is used to terminate any unresponsive program.
+
+<img width="1440" alt="Screenshot 2023-08-16 at 18 39 49" src="https://github.com/Samtaiglobal/samtai_linux_project1/assets/140549974/7138734f-ac40-43a7-98c8-b93d2e426acd">
+
+ping; this command is used to troubleshoot different connectivity issues.
+
+<img width="1440" alt="Screenshot 2023-08-16 at 18 44 00" src="https://github.com/Samtaiglobal/samtai_linux_project1/assets/140549974/657e5aa6-6a91-4c08-938a-eacb5ccb9126">
+
+wget: this command allows you to download files from the internet.
+
+<img width="1440" alt="Screenshot 2023-08-16 at 18 45 10" src="https://github.com/Samtaiglobal/samtai_linux_project1/assets/140549974/d774788e-41f9-4d43-9e1b-2530b18016a6">
+
+uname: this command will print details and information about ypur linux system
+
+<img width="1440" alt="Screenshot 2023-08-16 at 18 49 07" src="https://github.com/Samtaiglobal/samtai_linux_project1/assets/140549974/84864e13-5696-4f89-8258-9ec021c08290">
+
+top: this command shows all running processes.
+
+<img width="1440" alt="Screenshot 2023-08-16 at 18 51 09" src="https://github.com/Samtaiglobal/samtai_linux_project1/assets/140549974/2102967e-876f-4f94-9a31-b2093cf87f25">
+
+history; this command shows up to 500 previously used commands.
+
+<img width="1440" alt="Screenshot 2023-08-16 at 18 53 16" src="https://github.com/Samtaiglobal/samtai_linux_project1/assets/140549974/38848522-700f-48a4-b4d4-13f2a8af23c1">
+
+man: this provides user manual
+
+![Uploading Screenshot 2023-08-16 at 18.55.57.png…]()
+
+echo; this command displays text using standard output.
+
+![Uploading Screenshot 2023-08-16 at 23.32.52.png…]()
