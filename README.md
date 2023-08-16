@@ -122,8 +122,28 @@ history; this command shows up to 500 previously used commands.
 
 man: this provides user manual
 
-![Uploading Screenshot 2023-08-16 at 18.55.57.png…]()
+<img width="1440" alt="Screenshot 2023-08-16 at 23 36 06" src="https://github.com/Samtaiglobal/samtai_linux_project1/assets/140549974/95cea821-2085-4b5d-80a5-c5ad4c523a43">
 
 echo; this command displays text using standard output.
 
-![Uploading Screenshot 2023-08-16 at 23.32.52.png…]()
+<img width="1440" alt="Screenshot 2023-08-16 at 23 32 52" src="https://github.com/Samtaiglobal/samtai_linux_project1/assets/140549974/22622350-16f5-478c-96eb-fb7c16ac04c9">
+
+zip: this command is used compress  a file into zipflie.
+
+<img width="1440" alt="Screenshot 2023-08-16 at 23 55 12" src="https://github.com/Samtaiglobal/samtai_linux_project1/assets/140549974/bf8e6a72-b326-4290-9cd8-62a2a2e7d42b">
+
+unzip: this command is used to extract a zipped file from the archive.
+
+<img width="1440" alt="Screenshot 2023-08-16 at 23 55 12" src="https://github.com/Samtaiglobal/samtai_linux_project1/assets/140549974/29e63e4f-6be2-45a7-b87b-ffb50e1bfa57">
+
+hostname: this command is use to display the hostname of the system.
+
+<img width="1440" alt="Screenshot 2023-08-16 at 23 56 49" src="https://github.com/Samtaiglobal/samtai_linux_project1/assets/140549974/643f90d3-0f5d-478e-aae0-b483bde624ef">
+
+useradd, userdel: useradd is a command used to create a new user account, while userdel is used to delete account.
+
+<img width="1440" alt="Screenshot 2023-08-16 at 23 56 49" src="https://github.com/Samtaiglobal/samtai_linux_project1/assets/140549974/2b56eba3-feec-4102-a3d9-95e9ba782092">
+
+apt-get: this command is used to retrive information from authenticated sources.
+
+![Uploading Screenshot 2023-08-17 at 00.20.11.png…]()
