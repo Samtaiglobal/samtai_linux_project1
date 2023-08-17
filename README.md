@@ -142,8 +142,36 @@ hostname: this command is use to display the hostname of the system.
 
 useradd, userdel: useradd is a command used to create a new user account, while userdel is used to delete account.
 
-<img width="1440" alt="Screenshot 2023-08-16 at 23 56 49" src="https://github.com/Samtaiglobal/samtai_linux_project1/assets/140549974/2b56eba3-feec-4102-a3d9-95e9ba782092">
+<img width="1440" alt="Screenshot 2023-08-17 at 00 07 02" src="https://github.com/Samtaiglobal/samtai_linux_project1/assets/140549974/0d89b5a9-4b09-476d-ab74-9a70ed017872">
 
 apt-get: this command is used to retrive information from authenticated sources.
 
-![Uploading Screenshot 2023-08-17 at 00.20.11.png…]()
+<img width="1440" alt="Screenshot 2023-08-17 at 00 20 11" src="https://github.com/Samtaiglobal/samtai_linux_project1/assets/140549974/7cafdc64-54f4-462d-9b22-c09f800ff572">
+
+nano:this command is used to manage and edit file and denotes keywords
+
+<img width="1440" alt="Screenshot 2023-08-17 at 00 27 24" src="https://github.com/Samtaiglobal/samtai_linux_project1/assets/140549974/893f0553-96ef-4b7f-bb43-cacbad82a544">
+
+vi:this command is used to manage and edit file, it perfoms operational functions such as saving, copying,opening and pasting a file
+
+<img width="1440" alt="Screenshot 2023-08-17 at 00 36 18" src="https://github.com/Samtaiglobal/samtai_linux_project1/assets/140549974/a9783276-6880-4b7e-8cbc-27cf0854fc94">
+
+jed:
+
+<img width="1440" alt="Screenshot 2023-08-17 at 00 39 59" src="https://github.com/Samtaiglobal/samtai_linux_project1/assets/140549974/04f64c3e-d396-4791-98eb-0ab22a04c40d">
+
+alias, unalias: this command can be used to creae and remove a shortcut that has the same fuctionality as a command.
+
+<img width="1440" alt="Screenshot 2023-08-17 at 00 48 53" src="https://github.com/Samtaiglobal/samtai_linux_project1/assets/140549974/e96c5a03-5948-4bda-b3a5-fd09cef59594">
+
+su: this command allows you to run a program as a different user.
+
+<img width="1440" alt="Screenshot 2023-08-17 at 00 51 21" src="https://github.com/Samtaiglobal/samtai_linux_project1/assets/140549974/e6e75470-8a67-4b35-8679-055abb37fca9">
+
+htop: this command is used to monitor system resources and server processes
+
+<img width="1440" alt="Screenshot 2023-08-17 at 00 53 46" src="https://github.com/Samtaiglobal/samtai_linux_project1/assets/140549974/b9eac7b2-0bb7-405a-ab06-31dd80e01b90">
+
+ps: this command is used to produce a snapshot of all the running precess.
+
+<img width="1440" alt="Screenshot 2023-08-17 at 00 56 34" src="https://github.com/Samtaiglobal/samtai_linux_project1/assets/140549974/44b75f2a-3ff4-4775-83ef-f83f57918bde">
